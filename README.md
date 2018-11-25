@@ -20,15 +20,12 @@ The following **required** functionality is completed:
 The following **stretch** features are implemented:
 
 - [X] The current signed in user will be persisted across restarts. (1pt)
-- [X] Each tweet should display the relative timestamp for each tweet "8m", "7h". (1pt)
-- [X] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count. (1pt)
+- [ ] Each tweet should display the relative timestamp for each tweet "8m", "7h". (1pt)
+- [ ] User should be able to unretweet and unfavorite and should decrement the retweet and favorite count. (1pt)
 - [ ] Links in tweets are clickable. (2pts)
 - [ ] User can load more tweets once they reach the bottom of the feed using infinite loading similar to the actual Twitter client. (2pts)
 
 The following **additional** features are implemented:
-- [X] Progress Activity Loading when login
-- [X] Confirmation when log out of session
-- [X] Label color change when user tap the retweet and favorite buttons
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
@@ -41,7 +38,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='twitterVideo_1.gif' title='Twitter Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='gif' title='Twitter Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
@@ -57,7 +54,7 @@ List an 3rd party libraries, icons, graphics, or other assets you used in your a
 
 ## License
 
-Copyright [2018] [ISAAC]
+Copyright [2018] [Vellie Laguerre]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
